@@ -10,7 +10,7 @@ Exercício feito em aula da Rocketseat, com objetivo de organizar o código html
 
 ## Resultado final
 <p text-align="center">
-  <img src="./images/inicio.png" alt="Print do site" width="100%"/>
+  <img src="./images/print.png" alt="Print do site" width="100%"/>
 </p>
 <br>
 
